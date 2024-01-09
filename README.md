@@ -1,2 +1,2 @@
 # FlashAlgorithm
-This repository records my process of learning algorithms
+This repository records my process of learning algorithms.
